@@ -1,7 +1,8 @@
 # Irish Techie Table Quiz 2025
 
 This is an information pack about Irish Techie Table Quiz 2025.
-We have been running the in-person Irish techie quiz for over a decade, we have some write-ups of some of the past quizzes here: https://irishgeeks.github.io
+
+We (Declan McGrath, Michael Twomey and Vicky Twomey-Lee) have been running in-person Irish techie quizzes for over a decade, and last year we raised over €1,600 from contribuites by the Irish tech community and friends, which went up to over €2,800 with match-funding from Workday (host). You can read about last year's quiz and other past quizzes here: https://irishgeeks.github.io
 
 Presently, we are close to confirming the date and location of this year's quiz. And once those are confirmed, we will open up registration soon after.
 
@@ -9,7 +10,7 @@ Presently, we are close to confirming the date and location of this year's quiz.
 * 📍 TBA
 * 🎟️ TBC
 
-This event is free but you need to register.
+**This event is free but you need to register.**
 
 💖 Raising funds for the following charity:
 
