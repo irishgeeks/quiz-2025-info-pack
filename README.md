@@ -32,10 +32,10 @@ If your company like to support the quiz, we are looking for sponsorship for the
 * Prizes (x5 vouchers for 1st/2nd/3rd each) -- **Note we are only accepting vouchers as prizes**
 * Catering
 
-Enquiries, please email vicky@eventgeek.ie.
+Enquiries, please email irishgeeks@eventgeek.ie.
 
 ## Hugs to the following Community Partners (in alphabetical order):
-If you are an Irish tech community organiser and want to support the quiz and listed here, email vicky@eventgeek.ie.
+If you are an Irish tech community organiser and want to support the quiz and listed here, email irishgeeks@eventgeek.ie.
 
 * [Coding Grace](https://www.codinggrace.com/)
 * [GameCraft](https://www.gamecraft.it/)
