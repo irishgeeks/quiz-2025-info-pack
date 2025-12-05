@@ -74,39 +74,14 @@ If you are an Irish tech community organiser and want to support the quiz and li
 * [PyLadies Dublin](https://dublin.pyladies.com/)
 * [Ruby Ireland](https://www.rubyireland.com/)
 
----
+# Schedule (\*subject to change)
 
-# FAQ
-### Q. What kind of questions will be asked?
-This is not a typical table/pub quiz, our popular culture questions will revolve a lot around tech and nerdy happenings from past to present. From silly inventions to weather phenomens, entertainment to industry news. We will avoid any coding questions.
-
-### Q. I'm not on a team, can I still come along?
-Yes; we will help you find a group on the night.
-
-### Q. How many people per team?
-Up to 5 persons per team. 
-
-### Q. How much is it to participate?
-It's FREE! 🙌
-
-### Q. How can I get involved?
-**🌈 Community Organisers**
-
-Drop us an email at irishgeeks@eventgeek.ie, send along your
-
-* Group Name
-* Group Logo
-* Group URL
-
-We will add it to the banner and event page. And share with your network and get them to join us. Also, it's a chance to give yourself a month off from organising your event. Come along, kick back, enjoy and all for a good cause.
-
-### ✋ Individual
-We are also happy to have volunteers, if you like to help with
-
-* Quiz questions
-* Social media (we'll figure out a #-tag)
-* Take pics
-* Help with questions (but you can't participate in the quiz, that would be cheating. 😉)
-
-### Q. Will you be collecting cash?
-We rather folks donate online with our chosen platform.
+* 18:30 People arriving, settling down, have some food
+* 19:00 Welcome folks, run down of rules and announce our charity (bucket)
+* 19:05 Round 1
+* 19:25 Round 2
+* 19:45 Round 3
+* 20:05 Round 4
+* 20:40 Announce Winners
+* 21:00 Event ends
+  
