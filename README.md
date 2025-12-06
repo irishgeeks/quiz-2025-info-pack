@@ -74,8 +74,8 @@ If you are an Irish tech community organiser and want to support the quiz and li
 * ​[Dublin C++](https://www.meetup.com/cppdug/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
 * [GameCraft](https://www.gamecraft.it/)
-* [PyLadies Dublin](https://dublin.pyladies.com/)
 * [PyData Ireland](https://www.meetup.com/pydatadublin/)
+* [PyLadies Dublin](https://dublin.pyladies.com/)
 * [Ruby Ireland](https://www.rubyireland.com/)
 * [ShipItCon](https://shipitcon.com/)
 
