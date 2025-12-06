@@ -69,10 +69,13 @@ Enquiries, please email irishgeeks@eventgeek.ie.
 If you are an Irish tech community organiser and want to support the quiz and listed here, email irishgeeks@eventgeek.ie.
 
 * [Coding Grace](https://www.codinggrace.com/)
+* ​[Dublin C++](https://www.meetup.com/cppdug/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
 * [GameCraft](https://www.gamecraft.it/)
 * [PyLadies Dublin](https://dublin.pyladies.com/)
 * [Ruby Ireland](https://www.rubyireland.com/)
+* [ShipItCon](https://shipitcon.com/)
+
 
 # Schedule (\*subject to change)
 
