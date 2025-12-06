@@ -54,13 +54,14 @@ Thank you!
 # 🫶 Big thanks
 ## Our Supporters:
 * [Dogpatch Labs](https://dogpatchlabs.com): Hosting and catering
-* [GreyScout](https://greyscout.com): First Prize sponsorship
+* [GreyScout](https://greyscout.com): 🥇 First Prize sponsorship
+* [tcube](https://tcubedublin.com/tcube/index.html): 🥉 Third Prize sponsorship
 
 If your company like to support the quiz, we are looking for sponsorship for the following:
 * Prizes
     * ~~€150 = €30 x 5 - 1st Prize vouchers~~ (Gone - GreyScout)
     * €100 = €20 x 5 - 2nd Prize vouchers
-    * €50 = €10 x 5 - 3rd Prize vouchers
+    * ~~€50 = €10 x 5 - 3rd Prize vouchers~~ (Gone - tcube)
 * ~~Catering~~
 
 Enquiries, please email irishgeeks@eventgeek.ie.
@@ -69,10 +70,12 @@ Enquiries, please email irishgeeks@eventgeek.ie.
 If you are an Irish tech community organiser and want to support the quiz and listed here, email irishgeeks@eventgeek.ie.
 
 * [Coding Grace](https://www.codinggrace.com/)
+* [DubJUG](https://dubjug.org/)
 * ​[Dublin C++](https://www.meetup.com/cppdug/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
 * [GameCraft](https://www.gamecraft.it/)
 * [PyLadies Dublin](https://dublin.pyladies.com/)
+* [PyData Ireland](https://www.meetup.com/pydatadublin/)
 * [Ruby Ireland](https://www.rubyireland.com/)
 * [ShipItCon](https://shipitcon.com/)
 
