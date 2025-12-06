@@ -78,6 +78,7 @@ If you are an Irish tech community organiser and want to support the quiz and li
 * [PyLadies Dublin](https://dublin.pyladies.com/)
 * [Ruby Ireland](https://www.rubyireland.com/)
 * [ShipItCon](https://shipitcon.com/)
+* [TOG Hackerspace](https://www.tog.ie/)
 
 
 # Schedule (\*subject to change)
