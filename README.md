@@ -55,12 +55,13 @@ Thank you!
 ## Our Supporters:
 * [Dogpatch Labs](https://dogpatchlabs.com): Hosting and catering
 * [GreyScout](https://greyscout.com): 🥇 First Prize sponsorship
+* TBA: 🥈 Second Prize sponsorship
 * [tcube](https://tcubedublin.com/tcube/index.html): 🥉 Third Prize sponsorship
 
 If your company like to support the quiz, we are looking for sponsorship for the following:
 * Prizes
     * ~~€150 = €30 x 5 - 1st Prize vouchers~~ (Gone - GreyScout)
-    * €100 = €20 x 5 - 2nd Prize vouchers
+    * ~~€100 = €20 x 5 - 2nd Prize vouchers~~ (Gone - TBA)
     * ~~€50 = €10 x 5 - 3rd Prize vouchers~~ (Gone - tcube)
 * ~~Catering~~
 
