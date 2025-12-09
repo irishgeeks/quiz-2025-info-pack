@@ -35,7 +35,7 @@ Last year we raised over €1,600 from contributions by the Irish tech community
 ​We’re thrilled to host this community tradition and can’t wait to celebrate the season with you — quiz sheets, festive vibes, and good causes included.
 
 ### 🎁 Prizes
-​In the spirit of giving, our startup member [GreyScout](https://greyscout.com) will be sponsoring the top prize. More details to come on this!
+​In the spirit of giving, [GreyScout](https://greyscout.com), [Stack and Co.](https://stackand.co/) and [tcube](https://tcubedublin.com/) will be sponsoring the prizes. 
 
 ### 💖 Raising funds for the following charity:
 * [Dublin Simon Community](https://www.dubsimon.ie/)
@@ -55,17 +55,9 @@ Thank you!
 ## Our Supporters:
 * [Dogpatch Labs](https://dogpatchlabs.com): Hosting and catering
 * [GreyScout](https://greyscout.com): 🥇 First Prize sponsorship
-* TBA: 🥈 Second Prize sponsorship
+* [Stack and Co.](https://stackand.co/): 🥈 Second Prize sponsorship
 * [tcube](https://tcubedublin.com/tcube/index.html): 🥉 Third Prize sponsorship
 
-If your company like to support the quiz, we are looking for sponsorship for the following:
-* Prizes
-    * ~~€150 = €30 x 5 - 1st Prize vouchers~~ (Gone - GreyScout)
-    * ~~€100 = €20 x 5 - 2nd Prize vouchers~~ (Gone - TBA)
-    * ~~€50 = €10 x 5 - 3rd Prize vouchers~~ (Gone - tcube)
-* ~~Catering~~
-
-Enquiries, please email irishgeeks@eventgeek.ie.
 
 ## 💖 Hugs to the following Community Partners (in alphabetical order):
 If you are an Irish tech community organiser and want to support the quiz and listed here, email irishgeeks@eventgeek.ie.
