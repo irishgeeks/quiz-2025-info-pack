@@ -62,11 +62,13 @@ Thank you!
 ## 💖 Hugs to the following Community Partners (in alphabetical order):
 If you are an Irish tech community organiser and want to support the quiz and listed here, email irishgeeks@eventgeek.ie.
 
+* [AI Tinkerers Dublin](https://dublin.aitinkerers.org/)
 * [CHAI Dublin](https://www.meetup.com/chai-dublin-chatbot-ai-meetup/)
 * [Coding Grace](https://www.codinggrace.com/)
 * [DubJUG](https://dubjug.org/)
 * ​[Dublin C++](https://www.meetup.com/cppdug/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
+* [Dublin Linux Community](https://www.dublinlinux.org/)
 * [dub|sec](https://www.meetup.com/dub-sec/)
 * [GameCraft](https://www.gamecraft.it/)
 * [Go Ireland](https://www.meetup.com/goireland/)
